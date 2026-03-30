@@ -246,6 +246,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [Pion WebRTC](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API.
 - [RTSPtoWebRTC](https://github.com/deepch/RTSPtoWebRTC) - RTSP to WebRTC streaming server.
 - [SRT](https://github.com/Haivision/srt) - Secure Reliable Transport protocol for low latency video streaming over unreliable networks.
+- [tomcast](https://georgi.unixsol.org/git/gfto/tomcast) - A simple http2multicast daemon designed to work 24/7.
 - [wrtc](https://github.com/node-webrtc/node-webrtc) - WebRTC implementation for Node.js.
 
 ## Video AI/ML
